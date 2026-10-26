@@ -1,0 +1,8 @@
+orochi.base
+py3Dmol
+plotly
+matplotlib
+pandas
+seaborn
+PyQt6
+optuna-fast-fanova

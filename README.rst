@@ -1,7 +1,7 @@
 .. image:: images/orochi_icon.png
    :align: center
    :width: 80px
-   :target: https://Tominaka-Laboratory.github.io/orochi.view
+   :target: https://github.com/Tominaka-Laboratory/orochi.view
    :alt: Orochi Logo
 
 ===========
@@ -12,12 +12,15 @@ orochi.view
 .. _title: https://Tominaka-Laboratory.github.io/orochi.view
 
 .. |Icon| image:: images/orochi_icon.png
-   :target: https://Tominaka-Laboratory.github.io/orochi.view
+   :target: https://github.com/Tominaka-Laboratory/orochi.view
    :height: 100px
 
-|PyPi| |Forge| |PythonVersion| |PR|
+|PyPi| |Forge| |PythonVersion| |ChemRxiv| |PR|
 
 |CI| |Codecov| |Black| |Tracking|
+
+.. |ChemRxiv| image:: https://img.shields.io/badge/ChemRxiv-10.26434%2Fchemrxiv.15010802-blue.svg
+        :target: https://doi.org/10.26434/chemrxiv.15010802
 
 .. |Black| image:: https://img.shields.io/badge/code_style-black-black
         :target: https://github.com/psf/black
@@ -148,7 +151,8 @@ If you use Orochi in your research, please cite:
       author  = {Tominaka, Satoshi},
       journal = {ChemRxiv},
       year    = {2026},
-      url     = {https://chemrxiv.org/doc/d84591ff-85b9-489c-839a-4f7170dcc1c4}
+      doi     = {10.26434/chemrxiv.15010802},
+      url     = {https://doi.org/10.26434/chemrxiv.15010802}
     }
 
 Contact
